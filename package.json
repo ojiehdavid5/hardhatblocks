@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.1"
+  },
+  "dependencies": {
+    "@remix-project/remixd": "^0.6.28",
+    "hardhat-shorthand": "^1.0.0"
+  }
+}
