@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "@remix-project/remixd": "^0.6.28",
-    "hardhat-shorthand": "^1.0.0"
+    "hardhat-shorthand": "^1.0.0",
+    "web3": "^4.6.0"
   }
 }
